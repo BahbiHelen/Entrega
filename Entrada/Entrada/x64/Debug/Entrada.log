@@ -1,0 +1,17 @@
+﻿  Entrada.cpp
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(68,2): error C2065: 'quantidade_produtos': identificador não declarado
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(68,28): error C3861: 'input': identificador não encontrado
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(70,3): error C2143: erro de sintaxe: ';' ausente antes de 'if'
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(70,6): error C2061: erro de sintaxe: identificador 'quantidade_produtos'
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(70,32): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(71,4): error C3861: 'print': identificador não encontrado
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(71,46): error C2143: erro de sintaxe: ';' ausente antes de '}'
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(73,3): error C2065: 'elif': identificador não declarado
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(73,8): error C2146: erro de sintaxe: ';' ausente antes do identificador 'quantidade_produtos'
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(73,8): error C2065: 'quantidade_produtos': identificador não declarado
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(74,5): error C3861: 'print': identificador não encontrado
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(73,31): error C2064: o termo não pode ser avaliado como uma função recebendo 1 argumentos
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(76,3): error C2181: else inválido sem if correspondente
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(77,4): error C3861: 'print': identificador não encontrado
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(78,3): error C2143: erro de sintaxe: ';' ausente antes de '}'
+C:\Users\46291758814\source\repos\Entrada\Entrada\Entrada.cpp(5,12): error C1075: '{': nenhum token correspondente encontrado
